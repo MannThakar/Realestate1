@@ -1,0 +1,6 @@
+<svg width="124" height="48" viewBox="0 0 124 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="100" cy="24" r="24" fill="#FD5D11"/>
+<path d="M94 18H106M106 18V30M106 18L94 30" stroke="white" stroke-width="1.5"/>
+<circle cx="24" cy="24" r="24" transform="matrix(-1 0 0 1 48 0)" fill="white"/>
+<path d="M30 18H18M18 18V30M18 18L30 30" stroke="#6637EE" stroke-width="1.5"/>
+</svg>
